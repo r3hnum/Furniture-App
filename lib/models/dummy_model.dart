@@ -17,7 +17,7 @@ List<Product> products = [
     id: 1,
     price: 1500,
     title: "Classic Leather Arm Chair",
-    image: "assets/images/Item_1.png",
+    image: "assets/images/Item_3.png",
     description:
     "This is the description for Item 1",
   ),
@@ -32,9 +32,9 @@ List<Product> products = [
   ),
   Product(
     id: 3,
-    price: 1200,
+    price: 2100,
     title: "Bar Stool Chair",
-    image: "assets/images/Item_3.png",
+    image: "assets/images/Item_1.png",
     description:
     "This is the description for Item 3",
   ),
